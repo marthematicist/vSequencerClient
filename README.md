@@ -1,2 +1,2 @@
-# vSequencerClient
-A video sequencer built in Processing. (client code)
+# zSequencer
+a video sequencer build in Processing
